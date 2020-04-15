@@ -192,3 +192,4 @@ class IMGTSequenceGaps(Enum):
 class ImmuneReceptorType(Enum):
     TCR = 0
     BCR = 1
+
